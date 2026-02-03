@@ -1,0 +1,1 @@
+Named pipes for IPC
